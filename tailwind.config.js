@@ -9,6 +9,9 @@ export default {
             dtColorTwo: "#E8E7D5",
             dtColorThree: "#0A1E33",
          },
+         spacing: {
+            widthTextArea: "38.5rem",
+         }
       },
    },
    plugins: [],
